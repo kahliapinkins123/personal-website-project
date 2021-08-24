@@ -48,3 +48,9 @@ a{
 li a:hover{
     background: rgb(224, 37, 93);
 }
+
+div{
+    font-family: Didot, serif;
+    font-size: 20px;
+    color:rgb(146, 12, 86);
+}
